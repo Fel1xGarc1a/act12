@@ -19,7 +19,7 @@ class InventoryApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: InventoryHomePage(title: 'Inventory Home Page'),
+      home: InventoryHomePage(title: 'Act 12 - Inventory Management App'),
     );
   }
 }
